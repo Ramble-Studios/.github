@@ -1,0 +1,26 @@
+{
+
+	"customizations": {
+
+		"vscode": {
+
+			"extensions": [
+                "atomiks.moonlight",
+                "github.copilot",
+                "github.copilot-chat",
+                "github.vscode-github-actions",
+                "github.vscode-pull-request-github",
+                "pkief.material-icon-theme",
+                "yzhang.markdown-all-in-one"
+			],
+
+			"settings": {
+				"workbench.colorTheme": "Moonlight II",
+				"workbench.iconTheme": "material-icon-theme"
+			}
+
+		}
+
+	}
+
+}
