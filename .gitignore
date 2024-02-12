@@ -1,0 +1,11 @@
+# Ignore everything.
+/*
+
+# Don't ignore project folders.
+!.devcontainer/
+!.github/
+!.vscode/
+
+# Don't ignore project files.
+!.gitignore
+!README.md
