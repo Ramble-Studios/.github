@@ -5,6 +5,8 @@
 !.devcontainer/
 !.github/
 !.vscode/
+!assets/
+!profile/
 
 # Don't ignore project files.
 !.gitignore
