@@ -1,5 +1,3 @@
-![Banner](/assets/banner.png)
+![Banner](/assets/logo.png)
 
 # Ramble Studios
-
-Some information soon...
