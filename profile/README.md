@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ramble-Studios/.github/master/assets/logo.png" alt="RAMBLE" width="480" />
 
+
 <br/>
 
 [![Versión](https://img.shields.io/badge/Minecraft-1.21.8%20–%2026.x-15803d?style=flat-square&logo=minecraft&logoColor=white)](https://ramblemc.net)
